@@ -1,0 +1,8 @@
+git checkout main
+M       README.md
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+Asus@Hemant-S16 MINGW64 ~/Desktop/coursera-git/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo
+Already up to date.
